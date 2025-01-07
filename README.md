@@ -3,8 +3,8 @@
 **burakongoren/burakongoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on web developing with HTML&CSS, JavaScript, Bootstrap, Jquery, PHP, MySQL, Apache Server and MariaDB.
-- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working on web developing with HTML&CSS, JavaScript, Bootstrap, Jquery and PHP.
+- 🌱 I’m currently learning Data Analysis with Python
 - 💬 Ask me about my repositories.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/burakongoren/">My Linkedin profile</a>
 
